@@ -9,7 +9,7 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: 'var(--font-roboto)',
-        alt: 'var(--font-bai-jamhure)',
+        alt: 'var(--font-bai-jamjuree)',
       },
       colors: {
         gray: {
@@ -64,5 +64,5 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  plugins: [require('@tailwindcss/forms')],
 }
