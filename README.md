@@ -19,3 +19,5 @@
 [] - Input to select the specific date of a memory
 [] - Responsive Layout for web
 [] - Feed for public memories
+
+#### On Rocketseat NLW Event, version coded by Misael Lopes
