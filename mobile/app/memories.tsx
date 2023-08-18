@@ -42,7 +42,7 @@ export default function Memories() {
 
   useEffect(() => {
     loadMemories()
-  }, [])
+  }, [memories, loadMemories])
 
   return (
     <ScrollView
