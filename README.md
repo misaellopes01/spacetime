@@ -17,20 +17,19 @@
 [x] - List all memories
 
 ## Features TO-DO:
-[] - Edit a memory
+[ ] - Edit a memory
 
-[] - List a memory in details
+[ ] - List a memory in details
 
-[] - Link to share a public memory when create it
+[ ] - Link to share a public memory when create it
 
-[] - Input to select the specific date of a memory
+[ ] - Input to select the specific date of a memory
 
-[] - Responsive Layout for web
+[ ] - Responsive Layout for web
 
-[] - Feed for public memories
+[ ] - Feed for public memories
 
-![spacetime](https://github.com/misaellopes01/spacetime/assets/66078558/0d697db1-156c-4c03-8fa4-682b65da7622)
-![spacetime-mobile](https://github.com/misaellopes01/spacetime/assets/66078558/b4b50555-fdca-4df5-9032-aefc0772f89f)
+![Spacetime Banner](https://github.com/misaellopes01/spacetime/assets/66078558/cdc0c746-c025-4296-9ea9-9717096a77e2)
 
 
 #### On Rocketseat NLW Event, version coded by Misael Lopes
