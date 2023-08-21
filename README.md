@@ -5,7 +5,7 @@
 
 # Next Level Week - Spacetime (Learning Beyond Time and Space)
 ### An app where you can save and share your memories
-## Features done [Node.js, ReactJS(NextJS) and React-Native(Expo)]:
+## Features from the event [Node.js, ReactJS(NextJS) and React-Native(Expo)]:
 [x] - GitHub Authentication
 
 [x] - JWT Auth
@@ -16,7 +16,7 @@
 
 [x] - List all memories
 
-## Features TO-DO:
+## Features to improve the project:
 [ ] - Edit a memory
 
 [ ] - List a memory in details
